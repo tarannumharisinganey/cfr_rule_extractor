@@ -1,0 +1,64 @@
+# Install marker
+!pip install marker-pdf
+
+from google.colab import files
+import os
+
+# Upload your PDF
+print("Upload your PDF file:")
+uploaded = files.upload()
+pdf_filename = list(uploaded.keys())[0]
+print(f"Uploaded: {pdf_filename}")
+
+# Rename file to remove spaces and parentheses
+clean_filename = "document.pdf"
+os.rename(pdf_filename, clean_filename)
+
+# Create output directory
+!mkdir -p output
+
+# Convert using marker - marker_single only takes the PDF path
+# It outputs to a conversion_results directory
+!marker_single document.pdf
+
+# Find where marker actually saved the file
+print("\nSearching for conversion results...")
+!find /usr/local/lib/python3.12/dist-packages/conversion_results -name "*.md" 2>/dev/null || echo "Not found in expected location"
+
+# Copy from marker's output location to our output folder
+!cp -r /usr/local/lib/python3.12/dist-packages/conversion_results/* output/ 2>/dev/null || true
+
+# Also check current directory just in case
+!cp document.md output/ 2>/dev/null || true
+!cp document_meta.json output/ 2>/dev/null || true
+
+# Check what files were created
+print("\nFiles in output directory:")
+!ls -la output/
+
+# Read and display the result
+output_files = os.listdir('output')
+markdown_files = [f for f in output_files if f.endswith('.md')]
+
+if markdown_files:
+    md_file = os.path.join('output', markdown_files[0])
+    with open(md_file, 'r', encoding='utf-8') as f:
+        markdown_content = f.read()
+
+    print("\nCONVERTED MARKDOWN:")
+    print("=" * 50)
+    # Show first 2000 characters
+    if len(markdown_content) > 2000:
+        print(markdown_content[:2000])
+        print(f"\n... (showing first 2000 of {len(markdown_content)} characters)")
+    else:
+        print(markdown_content)
+
+    print("\n" + "=" * 50)
+    print(f"Full file saved as: {md_file}")
+
+    # Download the file
+    files.download(md_file)
+else:
+    print("No markdown files found in output")
+    print("Available files:", output_files)

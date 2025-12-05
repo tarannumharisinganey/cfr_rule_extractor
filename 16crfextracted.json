@@ -1,0 +1,511 @@
+{
+    "title": "CFR Regulations",
+    "parts": [
+        {
+            "part_number": "312",
+            "title": "CHILDREN'S ONLINE PRIVACY PROTECTION RULE (COPPA RULE)",
+            "subparts": [
+                {
+                    "letter": "General",
+                    "title": "General Provisions",
+                    "sections": [
+                        {
+                            "number": "312.1",
+                            "title": "Scope of regulations in this part.",
+                            "intro_text": "This part implements the Children's Online Privacy Protection Act of 1998 \\(15 U.S.C. 6501, *et seq.*), which prohibits unfair or deceptive acts or practices in connection with the collection, use, and/or disclosure of personal information from and about children on the internet.\n\n###",
+                            "subsections": []
+                        },
+                        {
+                            "number": "312.3",
+                            "title": "Regulation of unfair or deceptive acts or practices in connection with the collection, use, and/or disclosure of personal information from and about children on the internet.",
+                            "intro_text": "It shall be unlawful for any operator of a website or online service directed to children, or any operator that has actual knowledge that it is collecting or maintaining personal information from a child, to collect personal information from a child in a manner that violates the regulations prescribed under this part. Generally, under this part, an operator must:\n\n- (a) Provide notice on the website or online service of what information it collects from children, how it uses such information, and its disclosure practices for such information (\u00a7 312.4\\(b\\)\\);\n- (b) Obtain verifiable parental consent prior to any collection, use, and/or disclosure of personal information from children \\(\u00a7 312.5\\);\n- (c) Provide a reasonable means for a parent to review the personal information collected from a child and to refuse to permit its further use or maintenance (\u00a7 312.6);\n- (d) Not condition a child's participation in a game, the offering of a prize, or another activity on the child disclosing more personal information than is reasonably necessary to participate in such activity \\(\u00a7 312.7\\); and\n- (e) Establish and maintain reasonable procedures to protect the confidentiality, security, and integrity of personal information collected from children (\u00a7 312.8).\n\n####",
+                            "subsections": [
+                                {
+                                    "label": "a",
+                                    "text": "Provide notice on the website or online service of what information it collects from children, how it uses such information, and its disclosure practices for such information (\u00a7 312.4\\(b\\)\\);",
+                                    "children": []
+                                },
+                                {
+                                    "label": "b",
+                                    "text": "Obtain verifiable parental consent prior to any collection, use, and/or disclosure of personal information from children \\(\u00a7 312.5\\);",
+                                    "children": []
+                                },
+                                {
+                                    "label": "c",
+                                    "text": "Provide a reasonable means for a parent to review the personal information collected from a child and to refuse to permit its further use or maintenance (\u00a7 312.6);",
+                                    "children": []
+                                },
+                                {
+                                    "label": "d",
+                                    "text": "Not condition a child's participation in a game, the offering of a prize, or another activity on the child disclosing more personal information than is reasonably necessary to participate in such activity \\(\u00a7 312.7\\); and",
+                                    "children": []
+                                },
+                                {
+                                    "label": "e",
+                                    "text": "Establish and maintain reasonable procedures to protect the confidentiality, security, and integrity of personal information collected from children (\u00a7 312.8).\n####",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "number": "312.4",
+                            "title": "Notice.",
+                            "intro_text": "- (a) *General principles of notice.* It shall be the obligation of the operator to provide notice and obtain verifiable parental consent prior to collecting, using, or disclosing personal information from children. Such notice must be clearly and understandably written, complete, and must contain no unrelated, confusing, or contradictory materials.\n- (b) *Direct notice to the parent.* An operator must make reasonable efforts, taking into account available technology, to ensure that a parent of a child receives direct notice of the operator's practices with regard to the collection, use, or disclosure of personal information from children, including notice of any material change in the collection, use, or disclosure practices to which the parent has previously consented.\n- (c) *Content of the direct notice to the parent* \u2014\n  - (1) *Content of the direct notice to the parent for purposes of obtaining consent.* The direct notice to obtain the parent's affirmative consent to the collection, use, or disclosure of a child's personal information (including under \u00a7 312.5\\(c\\)\\(1\\)) shall set forth:\n    - (i) If applicable, that the operator has collected the parent's or child's online contact information from the child, and, if such is the case, the name of the child or the parent, in order to obtain the parent's consent;\n\n- (ii) That the parent's consent is required for the collection, use, or disclosure of personal information, and that the operator will not collect, use, or disclose any personal information from the child if the parent does not provide such consent;\n- (iii) The items of personal information the operator intends to collect from the child, how the operator intends to use such information, and the potential opportunities for the disclosure of personal information, should the parent provide consent;\n- (iv) Where the operator discloses personal information to one or more third parties, the identities or specific categories of such third parties (including the public if making it publicly available) and the purposes for such disclosure, should the parent provide consent, and that the parent can consent to the collection and use of the child's personal information without consenting to the disclosure of such personal information to third parties except to the extent such disclosure is integral to the website or online service;\n- (v) A hyperlink to the operator's online notice of its information practices required under paragraph \\(d\\) of this section;\n- (vi) The means by which the parent can provide verifiable consent to the collection, use, and disclosure of the information; and\n- (vii) If the operator has collected the name or online contact information of the parent or child to provide notice and obtain parental consent, that if the parent does not provide consent within a reasonable time from the date the direct notice was sent, the operator will delete the parent's or child's online contact information and the parent's or child's name from its records.\n- (2) *Content of the direct notice to the parent of a child's online activities not involving the collection, use or disclosure of personal information.* Where an operator chooses to notify a parent of a child's participation in a website or online service, and where such site or service does not collect any personal information other than the parent's online contact information, the voluntary direct notice to the parent of a child's online activities not involving the collection, use or disclosure of personal information (required under \u00a7 312.5\\(c\\)\\(2\\)) shall set forth:\n  - (i) That the operator has collected the parent's online contact information from the child in order to provide notice to, and subsequently update the parent about, a child's participation in a website or online service that does not otherwise collect, use, or disclose children's personal information;\n  - (ii) That the parent's online contact information will not be used or disclosed for any other purpose;\n  - (iii) That the parent may refuse to permit the child's participation in the website or online service and may require the deletion of the parent's online contact information, and how the parent can do so; and\n  - (iv) A hyperlink to the operator's online notice of its information practices required under paragraph \\(d\\) of this section.\n- (3) *Content of the direct notice to the parent of operator's intent to communicate with the child multiple times.* The direct notice to the parent of the operator's intent to communicate with the child multiple times (required under \u00a7 312.5\\(c\\)\\(4\\)) shall set forth:\n  - (i) That the operator has collected the child's online contact information from the child in order to provide multiple online communications to the child;\n\n- (ii) That the operator has collected the parent's online contact information from the child in order to notify the parent that the child has registered to receive multiple online communications from the operator;\n- (iii) That the online contact information collected from the child will not be used for any other purpose, disclosed, or combined with any other information collected from the child;\n- (iv) That the parent may refuse to permit further contact with the child and require the deletion of the parent's and child's online contact information, and how the parent can do so;\n- (v) That if the parent fails to respond to this direct notice, the operator may use the online contact information collected from the child for the purpose stated in the direct notice; and\n- (vi) A hyperlink to the operator's online notice of its information practices required under paragraph \\(d\\) of this section.\n- (4) *Content of the direct notice to the parent in order to protect a child's safety.* The direct notice to the parent in order to protect a child's safety (required under \u00a7 312.5\\(c\\)\\(5\\)\\) shall set forth:\n  - (i) That the operator has collected the name and the online contact information of the child and the parent in order to protect the safety of a child;\n  - (ii) That the information will not be used or disclosed for any purpose unrelated to the child's safety;\n  - (iii) That the parent may refuse to permit the use, and require the deletion, of the information collected, and how the parent can do so;\n  - (iv) That if the parent fails to respond to this direct notice, the operator may use the information for the purpose stated in the direct notice; and\n  - (v) A hyperlink to the operator's online notice of its information practices required under paragraph \\(d\\) of this section.\n- (d) *Notice on the website or online service.* In addition to the direct notice to the parent, an operator must post a prominent and clearly labeled link to an online notice of its information practices with regard to children on the home or landing page or screen of its website or online service, *and,* at each area of the website or online service where personal information is collected from children. The link must be in close proximity to the requests for information in each such area. An operator of a general audience website or online service that has a separate children's area must post a link to a notice of its information practices with regard to children on the home or landing page or screen of the children's area. To be complete, the online notice of the website or online service's information practices must state the following:\n  - (1) The name, address, telephone number, and email address of all operators collecting or maintaining personal information from children through the website or online service. Provided that: The operators of a website or online service may list the name, address, phone number, and email address of one operator who will respond to all inquiries from parents concerning the operators' privacy policies and use of children's information, as long as the names of all the operators collecting or maintaining personal information from children through the website or online service are also listed in the notice;\n  - (2) A description of what information the operator collects from children, including whether the website or online service enables a child to make personal information publicly available; how the operator uses such information; the operator's disclosure practices for such information, including the\n\n- identities and specific categories of any third parties to which the operator discloses personal information and the purposes for such disclosures; and the operator's data retention policy as required under \u00a7 312.10;\n- (3) If applicable, the specific internal operations for which the operator has collected a persistent identifier pursuant to \u00a7 312.5\\(c\\)\\(7\\); and the means the operator uses to ensure that such identifier is not used or disclosed to contact a specific individual, including through behavioral advertising, to amass a profile on a specific individual, or for any other purpose (except as specifically permitted to provide support for the internal operations of the website or online service);\n- (4) Where the operator collects audio files containing a child's voice pursuant to \u00a7 312.5\\(c\\)\\(9\\), a description of how the operator uses such audio files and that the operator deletes such audio files immediately after responding to the request for which they were collected; and\n- (5) If applicable, that the parent can review or have deleted the child's personal information, and refuse to permit further collection or use of the child's information, and state the procedures for doing so.\n\n####",
+                            "subsections": [
+                                {
+                                    "label": "a",
+                                    "text": "*General principles of notice.* It shall be the obligation of the operator to provide notice and obtain verifiable parental consent prior to collecting, using, or disclosing personal information from children. Such notice must be clearly and understandably written, complete, and must contain no unrelated, confusing, or contradictory materials.",
+                                    "children": []
+                                },
+                                {
+                                    "label": "b",
+                                    "text": "*Direct notice to the parent.* An operator must make reasonable efforts, taking into account available technology, to ensure that a parent of a child receives direct notice of the operator's practices with regard to the collection, use, or disclosure of personal information from children, including notice of any material change in the collection, use, or disclosure practices to which the parent has previously consented.",
+                                    "children": []
+                                },
+                                {
+                                    "label": "c",
+                                    "text": "*Content of the direct notice to the parent* \u2014",
+                                    "children": [
+                                        {
+                                            "label": "1",
+                                            "text": "*Content of the direct notice to the parent for purposes of obtaining consent.* The direct notice to obtain the parent's affirmative consent to the collection, use, or disclosure of a child's personal information (including under \u00a7 312.5\\(c\\)\\(1\\)) shall set forth:",
+                                            "children": [
+                                                {
+                                                    "label": "i",
+                                                    "text": "If applicable, that the operator has collected the parent's or child's online contact information from the child, and, if such is the case, the name of the child or the parent, in order to obtain the parent's consent;",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "label": "ii",
+                                                    "text": "That the parent's consent is required for the collection, use, or disclosure of personal information, and that the operator will not collect, use, or disclose any personal information from the child if the parent does not provide such consent;",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "label": "iii",
+                                                    "text": "The items of personal information the operator intends to collect from the child, how the operator intends to use such information, and the potential opportunities for the disclosure of personal information, should the parent provide consent;",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "label": "iv",
+                                                    "text": "Where the operator discloses personal information to one or more third parties, the identities or specific categories of such third parties (including the public if making it publicly available) and the purposes for such disclosure, should the parent provide consent, and that the parent can consent to the collection and use of the child's personal information without consenting to the disclosure of such personal information to third parties except to the extent such disclosure is integral to the website or online service;",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "label": "v",
+                                                    "text": "A hyperlink to the operator's online notice of its information practices required under paragraph \\(d\\) of this section;",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "label": "vi",
+                                                    "text": "The means by which the parent can provide verifiable consent to the collection, use, and disclosure of the information; and",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "label": "vii",
+                                                    "text": "If the operator has collected the name or online contact information of the parent or child to provide notice and obtain parental consent, that if the parent does not provide consent within a reasonable time from the date the direct notice was sent, the operator will delete the parent's or child's online contact information and the parent's or child's name from its records.",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "label": "2",
+                                            "text": "*Content of the direct notice to the parent of a child's online activities not involving the collection, use or disclosure of personal information.* Where an operator chooses to notify a parent of a child's participation in a website or online service, and where such site or service does not collect any personal information other than the parent's online contact information, the voluntary direct notice to the parent of a child's online activities not involving the collection, use or disclosure of personal information (required under \u00a7 312.5\\(c\\)\\(2\\)) shall set forth:",
+                                            "children": [
+                                                {
+                                                    "label": "i",
+                                                    "text": "That the operator has collected the parent's online contact information from the child in order to provide notice to, and subsequently update the parent about, a child's participation in a website or online service that does not otherwise collect, use, or disclose children's personal information;",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "label": "ii",
+                                                    "text": "That the parent's online contact information will not be used or disclosed for any other purpose;",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "label": "iii",
+                                                    "text": "That the parent may refuse to permit the child's participation in the website or online service and may require the deletion of the parent's online contact information, and how the parent can do so; and",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "label": "iv",
+                                                    "text": "A hyperlink to the operator's online notice of its information practices required under paragraph \\(d\\) of this section.",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "label": "3",
+                                            "text": "*Content of the direct notice to the parent of operator's intent to communicate with the child multiple times.* The direct notice to the parent of the operator's intent to communicate with the child multiple times (required under \u00a7 312.5\\(c\\)\\(4\\)) shall set forth:",
+                                            "children": [
+                                                {
+                                                    "label": "i",
+                                                    "text": "That the operator has collected the child's online contact information from the child in order to provide multiple online communications to the child;",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "label": "ii",
+                                                    "text": "That the operator has collected the parent's online contact information from the child in order to notify the parent that the child has registered to receive multiple online communications from the operator;",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "label": "iii",
+                                                    "text": "That the online contact information collected from the child will not be used for any other purpose, disclosed, or combined with any other information collected from the child;",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "label": "iv",
+                                                    "text": "That the parent may refuse to permit further contact with the child and require the deletion of the parent's and child's online contact information, and how the parent can do so;",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "label": "v",
+                                                    "text": "That if the parent fails to respond to this direct notice, the operator may use the online contact information collected from the child for the purpose stated in the direct notice; and",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "label": "vi",
+                                                    "text": "A hyperlink to the operator's online notice of its information practices required under paragraph \\(d\\) of this section.",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "label": "4",
+                                            "text": "*Content of the direct notice to the parent in order to protect a child's safety.* The direct notice to the parent in order to protect a child's safety (required under \u00a7 312.5\\(c\\)\\(5\\)\\) shall set forth:",
+                                            "children": [
+                                                {
+                                                    "label": "i",
+                                                    "text": "That the operator has collected the name and the online contact information of the child and the parent in order to protect the safety of a child;",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "label": "ii",
+                                                    "text": "That the information will not be used or disclosed for any purpose unrelated to the child's safety;",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "label": "iii",
+                                                    "text": "That the parent may refuse to permit the use, and require the deletion, of the information collected, and how the parent can do so;",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "label": "iv",
+                                                    "text": "That if the parent fails to respond to this direct notice, the operator may use the information for the purpose stated in the direct notice; and",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "label": "v",
+                                                    "text": "A hyperlink to the operator's online notice of its information practices required under paragraph \\(d\\) of this section.",
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "label": "d",
+                                    "text": "*Notice on the website or online service.* In addition to the direct notice to the parent, an operator must post a prominent and clearly labeled link to an online notice of its information practices with regard to children on the home or landing page or screen of its website or online service, *and,* at each area of the website or online service where personal information is collected from children. The link must be in close proximity to the requests for information in each such area. An operator of a general audience website or online service that has a separate children's area must post a link to a notice of its information practices with regard to children on the home or landing page or screen of the children's area. To be complete, the online notice of the website or online service's information practices must state the following:",
+                                    "children": [
+                                        {
+                                            "label": "1",
+                                            "text": "The name, address, telephone number, and email address of all operators collecting or maintaining personal information from children through the website or online service. Provided that: The operators of a website or online service may list the name, address, phone number, and email address of one operator who will respond to all inquiries from parents concerning the operators' privacy policies and use of children's information, as long as the names of all the operators collecting or maintaining personal information from children through the website or online service are also listed in the notice;",
+                                            "children": []
+                                        },
+                                        {
+                                            "label": "2",
+                                            "text": "A description of what information the operator collects from children, including whether the website or online service enables a child to make personal information publicly available; how the operator uses such information; the operator's disclosure practices for such information, including the\n- identities and specific categories of any third parties to which the operator discloses personal information and the purposes for such disclosures; and the operator's data retention policy as required under \u00a7 312.10;",
+                                            "children": []
+                                        },
+                                        {
+                                            "label": "3",
+                                            "text": "If applicable, the specific internal operations for which the operator has collected a persistent identifier pursuant to \u00a7 312.5\\(c\\)\\(7\\); and the means the operator uses to ensure that such identifier is not used or disclosed to contact a specific individual, including through behavioral advertising, to amass a profile on a specific individual, or for any other purpose (except as specifically permitted to provide support for the internal operations of the website or online service);",
+                                            "children": []
+                                        },
+                                        {
+                                            "label": "4",
+                                            "text": "Where the operator collects audio files containing a child's voice pursuant to \u00a7 312.5\\(c\\)\\(9\\), a description of how the operator uses such audio files and that the operator deletes such audio files immediately after responding to the request for which they were collected; and",
+                                            "children": []
+                                        },
+                                        {
+                                            "label": "5",
+                                            "text": "If applicable, that the parent can review or have deleted the child's personal information, and refuse to permit further collection or use of the child's information, and state the procedures for doing so.\n####",
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "number": "312.5",
+                            "title": "Parental consent.",
+                            "intro_text": "- (a) *General requirements.*\n  - (1) An operator is required to obtain verifiable parental consent before any collection, use, or disclosure of personal information from children, including consent to any material change in the collection, use, or disclosure practices to which the parent has previously consented.\n  - (2) An operator must give the parent the option to consent to the collection and use of the child's personal information without consenting to disclosure of his or her personal information to third parties, unless such disclosure is integral to the website or online service. An operator required to give the parent this option must obtain separate verifiable parental consent to such disclosure.\n- (b) *Methods for verifiable parental consent.*\n  - (1) An operator must make reasonable efforts to obtain verifiable parental consent, taking into consideration available technology. Any method to obtain verifiable parental consent must be reasonably calculated, in light of available technology, to ensure that the person providing consent is the child's parent.\n  - (2) Existing methods to obtain verifiable parental consent that satisfy the requirements of this paragraph include:\n    - (i) Providing a consent form to be signed by the parent and returned to the operator by postal mail, facsimile, or electronic scan;\n    - (ii) Requiring a parent, in connection with a transaction, to use a credit card, debit card, or other online payment system that provides notification of each discrete transaction to the primary account holder;\n    - (iii) Having a parent call a toll-free telephone number staffed by trained personnel;\n    - (iv) Having a parent connect to trained personnel via video-conference;\n    - (v) Verifying a parent's identity by checking a form of government-issued identification against databases of such information, where the parent's identification is deleted by the operator from its records promptly after such verification is complete;\n\n- (vi) Verifying a parent's identity using knowledge-based authentication provided:\n  - (A) the verification process uses dynamic, multiple-choice questions, where there are a reasonable number of questions with an adequate number of possible answers such that the probability of correctly guessing the answers is low; and\n  - (B) the questions are of sufficient difficulty that a child age 12 or younger in the parent's household could not reasonably ascertain the answers;\n- (vii) Having a parent submit a government-issued photographic identification that is verified to be authentic and is compared against an image of the parent's face taken with a phone camera or webcam using facial recognition technology and confirmed by personnel trained to confirm that the photos match; provided that the parent's identification and images are promptly deleted by the operator from its records after the match is confirmed; or\n- (viii) Provided that, an operator that does not \"disclose\" (as defined by \u00a7 312.2) children's personal information, may use an email coupled with additional steps to provide assurances that the person providing the consent is the parent. Such additional steps include: Sending a confirmatory email to the parent following receipt of consent, or obtaining a postal address or telephone number from the parent and confirming the parent's consent by letter or telephone call. An operator that uses this method must provide notice that the parent can revoke any consent given in response to the earlier email.\n- (ix) Provided that, an operator that does not \"disclose\" (as defined by \u00a7 312.2) children's personal information, may use a text message coupled with additional steps to provide assurances that the person providing the consent is the parent. Such additional steps include: Sending a confirmatory text message to the parent following receipt of consent, or obtaining a postal address or telephone number from the parent and confirming the parent's consent by letter or telephone call. An operator that uses this method must provide notice that the parent can revoke any consent given in response to the earlier text message.\n- (3) *Safe harbor approval of parental consent methods.* A safe harbor program approved by the Commission under",
+                            "subsections": [
+                                {
+                                    "label": "a",
+                                    "text": "*General requirements.*",
+                                    "children": [
+                                        {
+                                            "label": "1",
+                                            "text": "An operator is required to obtain verifiable parental consent before any collection, use, or disclosure of personal information from children, including consent to any material change in the collection, use, or disclosure practices to which the parent has previously consented.",
+                                            "children": []
+                                        },
+                                        {
+                                            "label": "2",
+                                            "text": "An operator must give the parent the option to consent to the collection and use of the child's personal information without consenting to disclosure of his or her personal information to third parties, unless such disclosure is integral to the website or online service. An operator required to give the parent this option must obtain separate verifiable parental consent to such disclosure.",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "label": "b",
+                                    "text": "*Methods for verifiable parental consent.*",
+                                    "children": [
+                                        {
+                                            "label": "1",
+                                            "text": "An operator must make reasonable efforts to obtain verifiable parental consent, taking into consideration available technology. Any method to obtain verifiable parental consent must be reasonably calculated, in light of available technology, to ensure that the person providing consent is the child's parent.",
+                                            "children": []
+                                        },
+                                        {
+                                            "label": "2",
+                                            "text": "Existing methods to obtain verifiable parental consent that satisfy the requirements of this paragraph include:",
+                                            "children": [
+                                                {
+                                                    "label": "i",
+                                                    "text": "Providing a consent form to be signed by the parent and returned to the operator by postal mail, facsimile, or electronic scan;",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "label": "ii",
+                                                    "text": "Requiring a parent, in connection with a transaction, to use a credit card, debit card, or other online payment system that provides notification of each discrete transaction to the primary account holder;",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "label": "iii",
+                                                    "text": "Having a parent call a toll-free telephone number staffed by trained personnel;",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "label": "iv",
+                                                    "text": "Having a parent connect to trained personnel via video-conference;",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "label": "v",
+                                                    "text": "Verifying a parent's identity by checking a form of government-issued identification against databases of such information, where the parent's identification is deleted by the operator from its records promptly after such verification is complete;",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "label": "vi",
+                                                    "text": "Verifying a parent's identity using knowledge-based authentication provided:",
+                                                    "children": [
+                                                        {
+                                                            "label": "A",
+                                                            "text": "the verification process uses dynamic, multiple-choice questions, where there are a reasonable number of questions with an adequate number of possible answers such that the probability of correctly guessing the answers is low; and",
+                                                            "children": []
+                                                        },
+                                                        {
+                                                            "label": "B",
+                                                            "text": "the questions are of sufficient difficulty that a child age 12 or younger in the parent's household could not reasonably ascertain the answers;",
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "label": "vii",
+                                                    "text": "Having a parent submit a government-issued photographic identification that is verified to be authentic and is compared against an image of the parent's face taken with a phone camera or webcam using facial recognition technology and confirmed by personnel trained to confirm that the photos match; provided that the parent's identification and images are promptly deleted by the operator from its records after the match is confirmed; or",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "label": "viii",
+                                                    "text": "Provided that, an operator that does not \"disclose\" (as defined by \u00a7 312.2) children's personal information, may use an email coupled with additional steps to provide assurances that the person providing the consent is the parent. Such additional steps include: Sending a confirmatory email to the parent following receipt of consent, or obtaining a postal address or telephone number from the parent and confirming the parent's consent by letter or telephone call. An operator that uses this method must provide notice that the parent can revoke any consent given in response to the earlier email.",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "label": "ix",
+                                                    "text": "Provided that, an operator that does not \"disclose\" (as defined by \u00a7 312.2) children's personal information, may use a text message coupled with additional steps to provide assurances that the person providing the consent is the parent. Such additional steps include: Sending a confirmatory text message to the parent following receipt of consent, or obtaining a postal address or telephone number from the parent and confirming the parent's consent by letter or telephone call. An operator that uses this method must provide notice that the parent can revoke any consent given in response to the earlier text message.",
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "label": "3",
+                                            "text": "*Safe harbor approval of parental consent methods.* A safe harbor program approved by the Commission under",
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "number": "312.6",
+                            "title": "Right of parent to review personal information provided by a child.",
+                            "intro_text": "- (a) Upon request of a parent whose child has provided personal information to a website or online service, the operator of that website or online service is required to provide to that parent the following:\n  - (1) A description of the specific types or categories of personal information collected from children by the operator, such as name, address, telephone number, email address, hobbies, and extracurricular activities;\n\n- (2) The opportunity at any time to refuse to permit the operator's further use or future online collection of personal information from that child, and to direct the operator to delete the child's personal information; and\n- (3) Notwithstanding any other provision of law, a means of reviewing any personal information collected from the child. The means employed by the operator to carry out this provision must:\n  - (i) Ensure that the requestor is a parent of that child, taking into account available technology; and\n  - (ii) Not be unduly burdensome to the parent.\n- (b) Neither an operator nor the operator's agent shall be held liable under any Federal or State law for any disclosure made in good faith and following reasonable procedures in responding to a request for disclosure of personal information under this section.\n- (c) Subject to the limitations set forth in \u00a7 312.7, an operator may terminate any service provided to a child whose parent has refused, under paragraph \\(a\\)\\(2\\) of this section, to permit the operator's further use or collection of personal information from his or her child or has directed the operator to delete the child's personal information.\n\n#",
+                            "subsections": [
+                                {
+                                    "label": "a",
+                                    "text": "Upon request of a parent whose child has provided personal information to a website or online service, the operator of that website or online service is required to provide to that parent the following:",
+                                    "children": [
+                                        {
+                                            "label": "1",
+                                            "text": "A description of the specific types or categories of personal information collected from children by the operator, such as name, address, telephone number, email address, hobbies, and extracurricular activities;",
+                                            "children": []
+                                        },
+                                        {
+                                            "label": "2",
+                                            "text": "The opportunity at any time to refuse to permit the operator's further use or future online collection of personal information from that child, and to direct the operator to delete the child's personal information; and",
+                                            "children": []
+                                        },
+                                        {
+                                            "label": "3",
+                                            "text": "Notwithstanding any other provision of law, a means of reviewing any personal information collected from the child. The means employed by the operator to carry out this provision must:",
+                                            "children": [
+                                                {
+                                                    "label": "i",
+                                                    "text": "Ensure that the requestor is a parent of that child, taking into account available technology; and",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "label": "ii",
+                                                    "text": "Not be unduly burdensome to the parent.",
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "label": "b",
+                                    "text": "Neither an operator nor the operator's agent shall be held liable under any Federal or State law for any disclosure made in good faith and following reasonable procedures in responding to a request for disclosure of personal information under this section.",
+                                    "children": []
+                                },
+                                {
+                                    "label": "c",
+                                    "text": "Subject to the limitations set forth in \u00a7 312.7, an operator may terminate any service provided to a child whose parent has refused, under paragraph \\(a\\)\\(2\\) of this section, to permit the operator's further use or collection of personal information from his or her child or has directed the operator to delete the child's personal information.\n#",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "number": "312.7",
+                            "title": "Prohibition against conditioning a child's participation on collection of personal information.",
+                            "intro_text": "An operator is prohibited from conditioning a child's participation in a game, the offering of a prize, or another activity on the child's disclosing more personal information than is reasonably necessary to participate in such activity.\n\n##",
+                            "subsections": []
+                        },
+                        {
+                            "number": "312.8",
+                            "title": "Confidentiality, security, and integrity of personal information collected from children.",
+                            "intro_text": "- (a) The operator must establish and maintain reasonable procedures to protect the confidentiality, security, and integrity of personal information collected from children.\n- (b) At a minimum, the operator must establish, implement, and maintain a written information security program that contains safeguards that are appropriate to the sensitivity of the personal information collected from children and the operator's size, complexity, and nature and scope of activities. To satisfy this requirement, the operator must:\n  - (1) Designate one or more employees to coordinate the operator's information security program;\n  - (2) Identify and, at least annually, perform additional assessments to identify internal and external risks to the confidentiality, security, and integrity of personal information collected from children and the sufficiency of any safeguards in place to control such risks;\n  - (3) Design, implement, and maintain safeguards to control risks identified through the risk assessments required under paragraph \\(b\\)\\(2\\) of this section. Each safeguard must be based on the volume and sensitivity of the children's personal information that is at risk, and the likelihood that the risk could result in the unauthorized disclosure, misuse, alteration, destruction or other compromise of such information;\n  - (4) Regularly test and monitor the effectiveness of the safeguards in place to control risks identified through the risk assessments required under paragraph \\(b\\)\\(2\\) of this section; and\n\n- (5) At least annually, evaluate and modify the information security program to address identified risks, results of required testing and monitoring, new or more efficient technological or operational methods to control for identified risks, or any other circumstances that an operator knows or has reason to know may have a material impact on its information security program or any safeguards in place to protect personal information collected from children.\n- (c) Before allowing other operators, service providers, or third parties to collect or maintain personal information from children on the operator's behalf, or before releasing children's personal information to such entities, the operator must take reasonable steps to determine that such entities are capable of maintaining the confidentiality, security, and integrity of the information and must obtain written assurances that such entities will employ reasonable measures to maintain the confidentiality, security, and integrity of the information.\n\n##",
+                            "subsections": [
+                                {
+                                    "label": "a",
+                                    "text": "The operator must establish and maintain reasonable procedures to protect the confidentiality, security, and integrity of personal information collected from children.",
+                                    "children": []
+                                },
+                                {
+                                    "label": "b",
+                                    "text": "At a minimum, the operator must establish, implement, and maintain a written information security program that contains safeguards that are appropriate to the sensitivity of the personal information collected from children and the operator's size, complexity, and nature and scope of activities. To satisfy this requirement, the operator must:",
+                                    "children": [
+                                        {
+                                            "label": "1",
+                                            "text": "Designate one or more employees to coordinate the operator's information security program;",
+                                            "children": []
+                                        },
+                                        {
+                                            "label": "2",
+                                            "text": "Identify and, at least annually, perform additional assessments to identify internal and external risks to the confidentiality, security, and integrity of personal information collected from children and the sufficiency of any safeguards in place to control such risks;",
+                                            "children": []
+                                        },
+                                        {
+                                            "label": "3",
+                                            "text": "Design, implement, and maintain safeguards to control risks identified through the risk assessments required under paragraph \\(b\\)\\(2\\) of this section. Each safeguard must be based on the volume and sensitivity of the children's personal information that is at risk, and the likelihood that the risk could result in the unauthorized disclosure, misuse, alteration, destruction or other compromise of such information;",
+                                            "children": []
+                                        },
+                                        {
+                                            "label": "4",
+                                            "text": "Regularly test and monitor the effectiveness of the safeguards in place to control risks identified through the risk assessments required under paragraph \\(b\\)\\(2\\) of this section; and",
+                                            "children": []
+                                        },
+                                        {
+                                            "label": "5",
+                                            "text": "At least annually, evaluate and modify the information security program to address identified risks, results of required testing and monitoring, new or more efficient technological or operational methods to control for identified risks, or any other circumstances that an operator knows or has reason to know may have a material impact on its information security program or any safeguards in place to protect personal information collected from children.",
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "label": "c",
+                                    "text": "Before allowing other operators, service providers, or third parties to collect or maintain personal information from children on the operator's behalf, or before releasing children's personal information to such entities, the operator must take reasonable steps to determine that such entities are capable of maintaining the confidentiality, security, and integrity of the information and must obtain written assurances that such entities will employ reasonable measures to maintain the confidentiality, security, and integrity of the information.\n##",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "number": "312.9",
+                            "title": "Enforcement.",
+                            "intro_text": "Subject to sections 6503 and 6505 of the Children's Online Privacy Protection Act of 1998, a violation of a regulation prescribed under section 6502(a) of this Act shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a\\(a\\)\\(1\\)\\(B\\)).\n\n##",
+                            "subsections": []
+                        },
+                        {
+                            "number": "312.10",
+                            "title": "Data retention and deletion requirements.",
+                            "intro_text": "An operator of a website or online service shall retain personal information collected online from a child for only as long as is reasonably necessary to fulfill the specific purpose(s) for which the information was collected. When such information is no longer reasonably necessary for the purposes for which it was collected, the operator must delete the information using reasonable measures to protect against unauthorized access to, or use of, the information in connection with its deletion. Personal information collected online from a child may not be retained indefinitely. At a minimum, the operator must establish, implement, and maintain a written data retention policy that sets forth the purposes for which children's personal information is collected, the business need for retaining such information, and a timeframe for deletion of such information. The operator must provide its written data retention policy addressing personal information collected from children in the notice on the website or online service provided in accordance with \u00a7 312.4\\(d\\).\n\n#",
+                            "subsections": []
+                        },
+                        {
+                            "number": "312.11",
+                            "title": "Safe harbor programs.",
+                            "intro_text": "- (a) *In general.* Industry groups or other persons may apply to the Commission for approval of self-regulatory program guidelines (\"safe harbor programs\"). The application shall be filed with the Commission's Office of the Secretary. The Commission will publish in the FEDERAL REGISTER a document seeking public comment on the application. The Commission shall issue a written determination within 180 days of the filing of the application.\n- (b) *Criteria for approval of self-regulatory program guidelines.* Proposed safe harbor programs must demonstrate that they meet the following performance standards:\n  - (1) Program requirements that ensure operators subject to the self-regulatory program guidelines (\"subject operators\") provide substantially the same or greater protections for children as those contained in \u00a7",
+                            "subsections": [
+                                {
+                                    "label": "a",
+                                    "text": "*In general.* Industry groups or other persons may apply to the Commission for approval of self-regulatory program guidelines (\"safe harbor programs\"). The application shall be filed with the Commission's Office of the Secretary. The Commission will publish in the FEDERAL REGISTER a document seeking public comment on the application. The Commission shall issue a written determination within 180 days of the filing of the application.",
+                                    "children": []
+                                },
+                                {
+                                    "label": "b",
+                                    "text": "*Criteria for approval of self-regulatory program guidelines.* Proposed safe harbor programs must demonstrate that they meet the following performance standards:",
+                                    "children": [
+                                        {
+                                            "label": "1",
+                                            "text": "Program requirements that ensure operators subject to the self-regulatory program guidelines (\"subject operators\") provide substantially the same or greater protections for children as those contained in \u00a7",
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "number": "312.2",
+                            "title": "through 312.8, and 312.10 if that operator complies with Commission-approved safe harbor program guidelines. In considering whether to initiate an investigation or bring an enforcement action against a subject operator for violations of this part, the Commission will take into account the history of the subject operator's participation in the safe harbor program, whether the subject operator has taken action to remedy such non-compliance, and whether the operator's non-compliance resulted in any one of the disciplinary actions set forth in paragraph \\(b\\)\\(3\\) of this section. \\[78 FR 4008, Jan. 17, 2013, as amended at 78 FR 76986, Dec. 20, 2013]",
+                            "intro_text": "##",
+                            "subsections": []
+                        },
+                        {
+                            "number": "312.12",
+                            "title": "Voluntary Commission approval processes.",
+                            "intro_text": "- (a) *Parental consent methods.* An interested party may file a written request for Commission approval of parental consent methods not currently enumerated in \u00a7 312.5\\(b\\). To be considered for approval, a party must provide a detailed description of the proposed parental consent methods, together with an analysis of how the methods meet \u00a7 312.5\\(b\\)\\(1\\). The request shall be filed with the Commission's Office of the Secretary. The Commission will publish in the FEDERAL REGISTER a document seeking public comment on the request. The Commission shall issue a written determination within 120 days of the filing of the request.\n- (b) *Support for the internal operations of the website or online service.* An interested party may file a written request for Commission approval of additional activities to be included within the definition of support for the internal operations of the website or online service. To be considered for approval, a party must provide a detailed justification why such activities should be deemed support for the internal operations of the website or online service, and an analysis of their potential effects on children's online privacy. The request shall be filed with the Commission's Office of the Secretary. The Commission will publish in the FEDERAL REGISTER a document seeking public comment on the request. The Commission shall issue a written determination within 120 days of the filing of the request.\n\n##",
+                            "subsections": [
+                                {
+                                    "label": "a",
+                                    "text": "*Parental consent methods.* An interested party may file a written request for Commission approval of parental consent methods not currently enumerated in \u00a7 312.5\\(b\\). To be considered for approval, a party must provide a detailed description of the proposed parental consent methods, together with an analysis of how the methods meet \u00a7 312.5\\(b\\)\\(1\\). The request shall be filed with the Commission's Office of the Secretary. The Commission will publish in the FEDERAL REGISTER a document seeking public comment on the request. The Commission shall issue a written determination within 120 days of the filing of the request.",
+                                    "children": []
+                                },
+                                {
+                                    "label": "b",
+                                    "text": "*Support for the internal operations of the website or online service.* An interested party may file a written request for Commission approval of additional activities to be included within the definition of support for the internal operations of the website or online service. To be considered for approval, a party must provide a detailed justification why such activities should be deemed support for the internal operations of the website or online service, and an analysis of their potential effects on children's online privacy. The request shall be filed with the Commission's Office of the Secretary. The Commission will publish in the FEDERAL REGISTER a document seeking public comment on the request. The Commission shall issue a written determination within 120 days of the filing of the request.\n##",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "number": "312.13",
+                            "title": "Severability.",
+                            "intro_text": "The provisions of this part are separate and severable from one another. If any provision is stayed or determined to be invalid, it is the Commission's intention that the remaining provisions shall continue in effect.",
+                            "subsections": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
