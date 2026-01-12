@@ -1,0 +1,15 @@
+# Virtual Environments
+venv-finra/
+venv/
+.venv/
+env/
+
+# Python cache (compiled files)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / build
+dist/
+build/
+*.egg-info/
